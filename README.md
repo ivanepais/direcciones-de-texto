@@ -1,2 +1,2 @@
 # direcciones-de-texto
-Combinacion del modo de escritura y lectura de nuestro lenguaje con la creatividad y el diseño. 
+Las diferentes direcciones, valores, propiedades de esta compleja tendencia en el modelo de caja redefinido.
